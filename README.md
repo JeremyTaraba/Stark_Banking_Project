@@ -30,5 +30,4 @@ Currently there is no executable file so there are a couple of steps you can tak
 
 ## What it looks like
 
-Login Screen:
-![alt text](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/ReadMe_Images/StarkBankLogin.jpg?raw=true)
+![login_screen](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/ReadMe_Images/StarkBankLogin.jpg?raw=true)
