@@ -31,3 +31,7 @@ Currently there is no executable file so there are a couple of steps you can tak
 ## What it looks like
 
 ![login_screen](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/ReadMe_Images/StarkBankLogin.jpg?raw=true)
+
+![create_account](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/ReadMe_Images/StarkBankCreateAccount.jpg?raw=true)
+
+![account](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/ReadMe_Images/StarkBankAccount.jpg?raw=true)
