@@ -25,3 +25,10 @@ Currently there is no executable file so there are a couple of steps you can tak
 2. Modify the launch.json file, specifically the "vmArgs" to point towards your downloaded version of javafx
 3. Open settings.json and modify each .jar to point to the correct location on your machine
 4. Run App.java
+
+
+
+## What it looks like
+
+Login Screen:
+![alt text](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/StarkBankLogin.jpg?raw=true)
