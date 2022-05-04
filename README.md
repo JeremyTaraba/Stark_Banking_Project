@@ -31,4 +31,4 @@ Currently there is no executable file so there are a couple of steps you can tak
 ## What it looks like
 
 Login Screen:
-![alt text](https://github.com/JeremyTaraba/Stark_Banking_Project/blob/main/StarkBankLogin.jpg?raw=true)
+![alt text](https://github.com/JeremyTaraba/Stark_Banking_Project/tree/main/StarkBankLogin.jpg?raw=true)
